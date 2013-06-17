@@ -1,5 +1,7 @@
 ##	路由流量监控管理平台
 
+>本项目在西安电子科技大学 OpenM.S.活动中获得开源项目特别奖
+
 ![软件截图](http://github.com/ibird/wrbwmonForOpenMS/raw/master/screen.png)
 ###	What
 	路由流量监控管理平台是为了方便网络管理人员监控流量而做的一套基于openwrt的软件。
